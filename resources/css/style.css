@@ -1,0 +1,33 @@
+/*
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+*/
+/* 
+    Created on : Apr 21, 2020, 1:57:08 AM
+    Author     : User
+*/
+
+.font-danger{
+    color: red;
+}
+.font-info{
+    color: blue;
+}
+.font-default{
+    color: black;
+}
+.font-warning{
+    color: orange;
+}
+.font-success{
+    color: green;
+}
+
+.top-right.links a{
+    padding: 0 8px;
+}
+
+.top-right.links a.dropdown-item{
+    padding: 8px 8px;
+}
